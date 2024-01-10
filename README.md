@@ -1,9 +1,9 @@
 # mysql_library_database
-A reprository to practice database design - MySQL database for a public library
+A reprository to practice database design --- A MySQL database for a public library
 
 The goal of this project is to create a simple MySQL database for a public library.
 
-The database consists of tables:
+The database consists of 11 tables:
 1. **'book'**: All the books in the library
 2. **'member'**: All the library members
 3. **'borrowing'**: The borrowing connection between 'book' and 'member'
